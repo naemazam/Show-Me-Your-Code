@@ -13,7 +13,7 @@
 ## 📤 How To Submit Your Project
 Submit your project through the form below:
 
-👉 **[Project Submission Form](#)** *(Add your Google Form link here)*
+👉 **[Project Submission Form](#)**
 
 
 ## 🎖️ Special Rewards
@@ -25,6 +25,7 @@ Submit your project through the form below:
 
 ## 📅 Monthly Winners
 *Each month we recognize the best builders in our community.*
+![Certificate](https://github.com/naemazam/Show-Me-Your-Code-/blob/main/smc.png) 
 
 ### 🏆 Winners – March 2026
 
