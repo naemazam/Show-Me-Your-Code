@@ -13,7 +13,7 @@
 ## 📤 How To Submit Your Project
 Submit your project through the form below:
 
-👉 **[Project Submission Form](#)**
+👉 **[Project Submission Form for EP-2 ](https://docs.google.com/forms/d/e/1FAIpQLSeKIb10Y6c-UVQp8nTnJe13q2i1CNz3CNlFlHvuBnGxwwEVlQ/viewform?usp=dialog)**
 
 
 ## 🎖️ Special Rewards
